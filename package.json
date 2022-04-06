@@ -1,0 +1,22 @@
+{
+  "name": "desafio3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlaLS/CursoBackendCoderHouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlaLS/CursoBackendCoderHouse/issues"
+  },
+  "homepage": "https://github.com/CarlaLS/CursoBackendCoderHouse#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
