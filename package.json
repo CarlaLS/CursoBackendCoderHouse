@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CarlaLS/CursoBackendCoderHouse.git"
+    "url": "git+https://github.com/CarlaLS/CursoBackend.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CarlaLS/CursoBackendCoderHouse/issues"
+    "url": "https://github.com/CarlaLS/CursoBackend/issues"
   },
-  "homepage": "https://github.com/CarlaLS/CursoBackendCoderHouse#readme",
+  "homepage": "https://github.com/CarlaLS/CursoBackend#readme",
   "dependencies": {
     "express": "^4.17.3"
   }
